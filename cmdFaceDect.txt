@@ -1,0 +1,5 @@
+./IPC1_Server_FFMpeg
+./IPC2_Server_FFMpeg 
+python3 IPC1_Live.py
+python3 IPC2_Live.py
+分四个终端打开
